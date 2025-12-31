@@ -1,7 +1,6 @@
 # echolife
 │
 ├── app.py                     # Main flask app
-
 ├── requirements.txt           # Libraries list
 ├── config.py                  # Keys, DB connection, cloud creds
 │
